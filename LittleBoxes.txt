@@ -4,7 +4,7 @@ https://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-boxes-
 Wyrm Notation
 i   四0-2    三G      二Gd     (x2)
 ii  四Gd     四5 x2 
-iii 四[5]-7-9-7-5
+iii 四[5]-7-9-7-5-[4]
 iv  四0-2    四Gd 
 v   四0-2    三D7d x2
 vi  三1-3    三Gd  x2
