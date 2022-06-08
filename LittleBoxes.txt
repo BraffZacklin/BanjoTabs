@@ -1,0 +1,25 @@
+Source
+https://www.hangoutstorage.com/banjohangout.org/storage/tabs/l/tab-little-boxes-pe-20138-483861422014.pdf
+
+Wyrm Notation
+i   四0-2    三G      二Gd     (x2)
+ii  四Gd     四5 x2 
+iii 四[5]-7-9-7-5
+iv  四0-2    四Gd 
+v   四0-2    三D7d x2
+vi  三1-3    三Gd  x2
+vii 三0-1    二D7d x2
+
+Repeat once, then new vii:
+二4-2 二Gd x 2 (ending is just strum G after 二4-2)
+
+Tab
+ i                   ii   x2 iii         iv     x2 v    x2 vi   x2 vii x2
+D--0-2---0---0- rpt -0-0-5-5-[5]-7-9-7-5---0-2-0-0-0-0-2---0-------0-------0----
+B------0-0---0-     ---0---0---------------------0-------1-1-1-3-0-0-0-1---1----
+G--------0-0-0-     ---0---0---------------------0---------2-------0-----2-2-2--
+D--------0---0-     ---0---0---------------------0---------0-------0-------0----
+
+Note about iii:
+    - "and business executives" (verse 2 part 2), "and drink their martinis dry" (verse 3 part 1)
+    Both above skip the [5] in notes/tabs
