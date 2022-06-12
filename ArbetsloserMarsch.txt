@@ -21,9 +21,9 @@ iii 二D7   三D7   ス1D7  スD7
 iv  ス5Gm  ス3Gm  ス1Gm  スGm
 v   三Cm   スCm   三Gm   スGm
 vi  二D7   三D7   三Gm   二Gm
-vii 一4Gm  一7Gm  二Gm   スGm
+vii 一4Gm  二2Gm  二Gm   スGm
 iix 三Cm   スCm   三Cm   三Gm
-ix  一4Gm  一7Gm  三Gm   二2Gm  二Gm
+ix  一4Gm  二2Gm  三Gm   二2Gm  二Gm
 
 
 Bass (in Am)
