@@ -1,14 +1,42 @@
 **Waltzing Matilda**
-once a jolly swagman camped out by the billabong
-under the shade of the coolabah tree
-i  一G 二G 三G x2 二2G x2 二G x2 (x2)
-well he watched as he sang as he waited for his billy boil
-ii 一G 三G x2 二2G x2 二G 二2G 二G 一G
-(i) you'll come a-waltzing matilda with me!
+Verse
+  i   一G 二G 三G x2 二2G x2 二G x2 (x2)
+  ii  一G 三G x2 二2G x2 二G 二2G 二G 一G
+  iii 一G 二G 二2/4G 二2G x2 二G x2
 
-Waltzing Matilda, Waltzing Matilda
-iii 二2/4G 二4G 三3G x2, 二5G x2 三3G x2
-You'll come a-waltzing matilda with me
-iv 二G 二2/4G 三3G x2 二2G x2 二G x2
-(ii) well he watched as he sang as he waited for his billy boil
-(i) you'll come a-waltzing matilda with me!
+Verse Variants
+  shorti  一G 二G 三G x2 [二2G 二G]
+  shortii 一G 三G [x1] 二2G x2 二G 二2G 二G 一G
+
+Chorus
+  iv 二2/4G 二4G 三3G x2, 二5G x2 三3G x2
+  v  二G 二2/4G 三3G x2 二2G x2 二G x2
+  (ii) if the verse uses the shortii, use it here too, as lyrics are repeated
+  (iii)
+
+Lyrics
+  Once a jolly swagman camped out by the billabong
+  Under the shade of the coolibah tree
+  And he sang as he watched as he waited for his billy boil
+  "You'll come a-Waltzing Matilda, with me"
+
+(Chorus played after each verse, but line 3 changes to match)
+  Waltzing Matilda, Waltzing Matilda
+  "You'll come a-Waltzing Matilda, with me"
+  He sang as he watched and waited 'til his billy boiled
+  "You'll come a-Waltzing Matilda, with me"
+
+  Down came a jumbuck to drink up at the billabong
+  Up jumped the swagman and grabbed him with glee
+  And he sang as he stowed that jumbuck in his tucker bag
+  "You'll come a-Waltzing Matilda, with me"
+
+  Up rode the squatter, mounted on his thoroughbred
+  Up rode the troopers, one, two, three
+  "With that jolly jumbuck you've got in your tucker bag?" --shortii
+  "You'll come a-Waltzing Matilda, with me"
+
+  Up jumped the swagman and sprang into the billabong
+  "You won't take me alive", said he  -----------------------shorti
+  And his ghost may be heard as you pass by that billabong
+  "You'll come a-Waltzing Matilda, with me"

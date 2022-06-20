@@ -1,9 +1,30 @@
 **Bella Ciao (Gm, 三Bb)**
-the world is waking, outside my window
-i 一二-2三 二Gm 一Gm 二Gm (x2)
-Oh bella ciao, bella ciao, bella ciao ciao ciao
-ii 一 二-2三Gm x3 三Gm x2
-I'll be in prison, or on the TV
-iii 三2-0二2 四D7 x2, 四三2-0 四D7 x2
-I'll say the sunlight dragged me here
-v 四三2-0 二D7 三D7 二D7 三Gm 二Gm
+Verse
+  i   一二-2三 二Gm x3 (x2)
+  ii  一 (二-2三Gm) x3 三Gm x2
+  iii 二-2 三D7 x2, 三2-0二2 三Gm 二Gm x2
+  v   三2-0二2-0G 三G 二D7 三Gm 二Gm x2
+
+Verse Variants
+  longiii 二-2 [三-]2D7 x2, 三2-0二2 三Gm 二Gm
+
+Lyrics (plus syllable count)
+  The world is waking, outside my window  5,5
+  Bella ciao, bella ciao, bella ciao ciao ciao  
+  Drags my senses, into the sunlight      4,5
+  For there are things that I must do     8
+
+  So wish me luck now, I have to leave you 5,5
+  Bella ciao, bella ciao, bella ciao ciao ciao
+  With my friends now, up to the city     4,5
+  We're going to shake the Gates of Hell  8
+
+  And I will tell them - And we will tell them  5,5
+  Bella ciao, bella ciao, bella ciao ciao ciao 
+  That our sunlight is not for franchise        4,5
+  And wish the bastards drop down dead          8
+
+  Next time you see me, I may be smiling          5,5
+  Bella ciao, bella ciao, bella ciao ciao ciao   
+  I'll be in prison or on the TV                  5,5 --longiii here
+  I'll say, "the sunlight dragged me here!"       8

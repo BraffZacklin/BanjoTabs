@@ -1,6 +1,14 @@
 Source
 https://banjotabs.org/title/b/battle-hymn-of-the-republic/
 
+% double strum
+
+**Chorus**
+i   二G%  一3-2  二G  ス-2C% 三C%
+ii  二D7% 三-1-0-1D7 二D7%   一C%
+rpt i
+iii 三-1 スG x2 三1G 三G 三1G
+
 VERSE
 D----0---0-------0---0-2-2-2-0---0-------0-------0-------0--------
 B----0---0-------0-1-----1-----1-1-1-0---0---0-1-1-1-----0--------
