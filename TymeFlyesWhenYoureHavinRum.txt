@@ -1,0 +1,35 @@
+Tuning: dDACD (Open D57)
+the S is for all strings open (unless any are plucked right before)
+Dm一二三2ス3
+
+VERSE
+	No future was there | in London for  a      | poor man's son like me
+	So I left my home   | and I went to seek my | fortune on the sea
+	I signed aboard a merchant ship bound for the west indies
+	And six weeks out we | tacked into the      | winds of pira-cy
+
+	There were sails on the horizon and we tried to make a run
+	And when we saw that black flag and our running it was done
+	When those pirates boarded us they told us one by one
+	"You can die or join me crew me boys, time flies when you're having rum!"
+
+CHORUS
+	Time flies when you're having rum me boys, time flies when you're having rum!
+	When you're sailing under the black flag, and you're firing all your guns
+	When you take a Spanish treasure ship, you divide by the rule of thumb
+	The voyage will be over soon enough, time flies when you're having rum
+
+VERSE
+  i   三 スh3-p スS  三S 二S 一5 一3S  一S
+  ii  三 スh3-p スS  三S 二S 三S スh3S スS
+  iii 三 スh5S ス5S (ス7S)x2 三S ス3S  スS
+  (i rpt)
+
+  (i, ii, iii)
+  iv  三hDm 三S 三Dm (スDm)x2 ス5Sd ス3Sd スSd
+
+CHORUS
+  (ii x2, then iii, iv)
+
+
+I think the verse is the exact same for all of them... will have to test that tho
