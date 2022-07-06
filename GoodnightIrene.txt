@@ -1,13 +1,15 @@
-**Goodnight, Irene**
-G  D7
-D7 G
-G  G7
-C  Am
-D7 E
+Goodnight Irene G五d
+  Chorus
+i   三D%   ス2G% 三A%  二A%
+ii  ス2G%  ス4G% ス2-0G% ス
+iii 三3    スD%  ス4-2G%
+iv  ス-2G% ス三A%
+v   二A%   ス2-4G% ス2-0G%
 
-https://tabs.ultimate-guitar.com/tab/the-weavers/goodnight-irene-chords-1164094
-https://www.youtube.com/watch?v=MSDyiUBrUSk
+  Verse
+i   三D%     ス2G% 三2 スA%
+ii  スEm7%   ス4G%2G 三D%
+iii 三3 スD% ス4/2-0-2p0G
+iv  三Em% 二A% ス4G ス2-0D7%
 
-i   一G%  二G%  三D7% 二D7%
-ii  一D7% 二D7% 三G%  二G%
-iii 一G%  二G%  三
+This is unfinished and probably not correct or helpful

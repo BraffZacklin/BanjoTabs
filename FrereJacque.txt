@@ -1,0 +1,6 @@
+G三C tuning
+
+i   二G 二2G 二4G 一5G x2
+ii  二2G 三G スG       x2
+iii ス2p0G 三ス 三G 二G x2
+iv  二4G 二G 二2G%     x2
