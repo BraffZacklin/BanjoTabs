@@ -19,6 +19,12 @@ CHORUS
 	When you take a Spanish treasure ship, you divide by the rule of thumb
 	The voyage will be over soon enough, time flies when you're having rum
 
+BRIDGE
+  Now as you've listened to this tale by know, I'm sure you have surmised
+  That I slipped the hangman's cable, and escaped him with my life
+  But how I got away, well that's another story son
+  My voyaging days ain't over yet, time flies when you're having rum!
+
 VERSE
   i   三 スh3-p スS  三S 二S 一5 一3S  一S
   ii  三 スh3-p スS  三S 二S 三S スh3S スS
@@ -26,10 +32,14 @@ VERSE
   (i rpt)
 
   (i, ii, iii)
-  iv  三hDm 三S 三Dm (スDm)x2 ス5Sd ス3Sd スSd
+shortiv 三h2Dm  二Dm 三Dm (スDm)x2 ス5Sd ス3Sd スSd -- Only used by the first verse
+     iv 三 三Dm 二Dm 三Dm スDm  ス5Sd ス3Sd スSd
 
 CHORUS
   (ii x2, then iii, iv)
 
-
-I think the verse is the exact same for all of them... will have to test that tho
+BRIDGE
+  Dm C
+  Dm D7
+  Dm 三 ス-3-5-7-3-0
+  iv
