@@ -1,45 +1,87 @@
-Tuning: dDACD (Open D57)
-the S is for all strings open (unless any are plucked right before)
-Dm一二三2ス3
+Single C Tuning (Open G 三C)
 
-VERSE
-	No future was there | in London for  a      | poor man's son like me
-	So I left my home   | and I went to seek my | fortune on the sea
-	I signed aboard a merchant ship bound for the west indies
-	And six weeks out we | tacked into the      | winds of pira-cy
+VERSE 
+  i   二Dm 三Dm スDm 三Dm 三D7 二D7   二S   スS,  二S    スS
+  ii  二Dm 三Dm スDm 三Dm 三D7 二D7   スD7  三D7, スD7   三D7
+  iii 二Dm (三Dm)x2 (スDm)x2   三Dm7 スDm7 スD7, ス3p0S スS
+  iv  二Dm (三Dm)x2 (スDm)x2   二0S 一3S 一S,    一3p0S 一S 
 
-	There were sails on the horizon and we tried to make a run
-	And when we saw that black flag and our running it was done
-	When those pirates boarded us they told us one by one
-	"You can die or join me crew me boys, time flies when you're having rum!"
+  i    二Dm  三Dm スDm 三Dm 三D7 二D7  二S   スS,   三S    スS
+  ii   二Dm  三Dm スDm 三Dm 三D7 二D7  スD7  三D7,  スD7   三D7
+modiii 二Dm  (スDm)x2  (三Dm)x2 三Dm7 スDm7 スD7,  ス3p0S スS
+  v    三Dm  二Dm 三Dm (スDm)x2  二0S  一3S  一S,  一3p0S 一S
 
-CHORUS
-	Time flies when you're having rum me boys, time flies when you're having rum!
-	When you're sailing under the black flag, and you're firing all your guns
-	When you take a Spanish treasure ship, you divide by the rule of thumb
-	The voyage will be over soon enough, time flies when you're having rum
-
-BRIDGE
-  Now as you've listened to this tale by know, I'm sure you have surmised
-  That I slipped the hangman's cable, and escaped him with my life
-  But how I got away, well that's another story son
-  My voyaging days ain't over yet, time flies when you're having rum!
-
-VERSE
-  i   三 スh3-p スS  三S 二S 一5 一3S  一S
-  ii  三 スh3-p スS  三S 二S 三S スh3S スS
-  iii 三 スh5S ス5S (ス7S)x2 三S ス3S  スS
-  (i rpt)
-
-  (i, ii, iii)
-shortiv 三h2Dm  二Dm 三Dm (スDm)x2 ス5Sd ス3Sd スSd -- Only used by the first verse
-     iv 三 三Dm 二Dm 三Dm スDm  ス5Sd ス3Sd スSd
+nassauiii  二Dm (スDm)x2 (三Dm)x2 [三Dm7x2] スDm7 スD7, ス3p0S スS
 
 CHORUS
-  (ii x2, then iii, iv)
+   iii 二Dm (三Dm)x2 (スDm)x2 三Dm7 スDm7 スD7, ス3p0S スS (x2)
+modiii 二Dm (スDm)x2 (三Dm)x2 三Dm7 スDm7 スD7, ス3p0S スS
+   iv  二Dm (三Dm)x2 (スDm)x2 二0S  一3S   一S, 一3p0S 一S 
 
 BRIDGE
   Dm C
   Dm D7
-  Dm 三 ス-3-5-7-3-0
-  iv
+  Dm C
+  Dm (vamp), 二0S 一3S 一S, 一3p0S 一S
+
+LYRICS
+(Verse)
+No future was there in London for a poor man's son like me
+So I left my home and I went to seek my fortune on the sea
+I signed aboard a merchant ship bound for the west indies
+And six weeks out we tapped into the winds of piracy
+
+There were sails on the horizon and we tried to make a run
+But when we saw that black flag then our running it was done
+And when those pirates boarded us they told us one by one
+"You can die or join our crew me boys, Time flies whеn you're having rum!"
+
+(Chorus)
+Time flies whеn you're having rum me boys, time flies when you're having rum
+When you're sailing under the black flag and you're firing all your guns
+When you take a spanish treasure ship, you divide by the rule of thumb
+Our voyage will be over soon enough, time flies when you're having rum
+
+With a pistol to my forehead, then my choice was all too clear
+I took leave of that merchant ship and became a buccaneer
+And though they spared my life I think that if the truth be told
+I joined them for the promise of adventure, rum and gold
+
+The quartermaster handed me a cutlass and a gun
+And as I signed their articles the captain told me "Son
+Us gentlemen of fortune live life fast and on the run
+So step right up and take your share, time flies when you're having rum!"
+
+(Chorus)
+
+For two long years I sailed with them around the Spanish Main
+And capture ships from Portugal, from England, France and Spain
+We took what we could and we gave none back, for that's the pirate's code
+And in our wake the Caribbean Sea ran red with blood
+
+The admiralty in London sent a fleet to hunt us down
+A traitor in Port Royal told them where we could be found
+They surrounded us in Nassau, the captain shouted "Let 'em come!" --nassauiii
+"The fight will be over soon enough, time flies when you're having rum."
+
+(Chorus)
+
+We ran the red flag up and then we readied all our guns
+No quarter would we give and in turn expected none
+We got off one good broadside, but outnumbered ten to one
+They took out half our crew, and then our pirating was done
+
+They took us back to London Town nder key and lock
+The hangman's noose was swinging at the execution dock
+The captain turned and said to me, "We had fine sailing son
+The voyage it was over all too soon, time flies when you're having rum."
+
+(Chorus)
+
+(Bridge)
+Now as you've listened to this tale by now, I'm sure you have surmised
+That I slipped the hangman's cable, and escaped him with my life
+But how I got away, well that's another story son
+My voyages they aren’t over yet, time flies when you're having rum!
+
+(Chorus)
