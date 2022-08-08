@@ -1,14 +1,15 @@
 **Which Side Are You On?**
 Gm tuning, 一D二G三Bbスd五g
+D7+2 一0二2三2ス1
 
 Chorus/Fill
   i  一-3二-2 三Gm x2 三二2-0一3 一Gm x3
 
 Verse
-  ii  二Gm 三D7 x2 スD7 ス
-  iii 三2 ス 三2-0 二2 三Gm x3
-  (ii)
-  iv  三2-0 二2-0 一3-0
+  ii  二Gm  三D7+2 x2 スD7+2 x2
+  iii ス 三2-0 二2 三Gm x3
+  iv  二Gm   二D7 x2   スD7 x2
+  (iii)
 
 Lyrics
   Come all of you good workers,

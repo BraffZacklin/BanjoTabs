@@ -1,0 +1,39 @@
+(Below assumes tuning of, low to high, 5-1-x-5, where 5 is the perfect 5th, 1 is the root, and x doesn't matter)
+**Patterns**
+Major:    0-2-4-5
+Minor:    0-2-3-5
+Phrygian: 0-1-3-5
+Harmonic: 0-1-4-5
+Lydian:   1-2-4-6 (Phrygian up half step)
+
+**Scale Notes**
+Aolian         - AKA Natural Minor
+Harmonic Minor - Aolian w Major 7th
+Melodic Minor  - Aolian w Major 7th, Major 6th
+Mixolydian     - Major w Minor 7th
+Lydian         - Major w Augmented (sharp) 4th
+Phrygian       - Minor w Minor 2nd
+Dorian         - Major w Minor 7th, Minor 3rd
+Locrian        - Minor w Flat 2nd, Diminished (flat) 5th
+
+**1 Root**
+Major      - 1,5:Major
+Aolian     - 1:Minor, 5:Phrygian
+Harmonic   - 1:Minor, 5:Harmonic
+Melodic    - 1:Minor, 5:Major
+Mixolydian - 1:Major, 5:Minor
+Lydian     - 1,5:Major
+Phrygian   - 1,5:Phrygian
+Dorian     - 1,5:Minor
+Locrian    - 1:Phrygian, 5:Lydian
+
+**5 Root**
+Major      - 1,5:Major
+Aolian     - 1,5:Minor
+Harmonic   - 1,5:Minor
+Melodic    - 1:Major, 5:Minor
+Mixolydian - 1,5:Major
+Lydian     - 1:Lydian, 5:Major
+Phrygian   - 1:Minor, 5:Phrygian
+Dorian     - 1:Major, 5:Minor
+Locrian    - 1:Phrygian, 5:Phrygian
