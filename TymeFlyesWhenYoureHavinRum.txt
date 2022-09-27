@@ -1,28 +1,30 @@
 Single C Tuning (Open G 三C)
 
-VERSE 
-  i   二Dm 三Dm スDm 三Dm 三D7 二D7   二S   スS,  二S    スS
-  ii  二Dm 三Dm スDm 三Dm 三D7 二D7   スD7  三D7, スD7   三D7
-  iii 二Dm (三Dm)x2 (スDm)x2   三Dm7 スDm7 スD7, ス3p0S スS
-  iv  二Dm (三Dm)x2 (スDm)x2   二0S 一3S 一S,    一3p0S 一S 
-
-  i    二Dm  三Dm スDm 三Dm 三D7 二D7  二S   スS,   三S    スS
-  ii   二Dm  三Dm スDm 三Dm 三D7 二D7  スD7  三D7,  スD7   三D7
-modiii 二Dm  (スDm)x2  (三Dm)x2 三Dm7 スDm7 スD7,  ス3p0S スS
-  v    三Dm  二Dm 三Dm (スDm)x2  二0S  一3S  一S,  一3p0S 一S
-
-nassauiii  二Dm (スDm)x2 (三Dm)x2 [三Dm7x2] スDm7 スD7, ス3p0S スS
-
-CHORUS
-   iii 二Dm (三Dm)x2 (スDm)x2 三Dm7 スDm7 スD7, ス3p0S スS (x2)
-modiii 二Dm (スDm)x2 (三Dm)x2 三Dm7 スDm7 スD7, ス3p0S スS
-   iv  二Dm (三Dm)x2 (スDm)x2 二0S  一3S   一S, 一3p0S 一S 
-
 BRIDGE
   Dm C
   Dm D7
   Dm C
-  Dm (vamp), 二0S 一3S 一S, 一3p0S 一S
+  Dm (vamp), (二0S 一3S 一S, 一3p0S 一S) DEFINITELY INCORRECT needs matching to part iv
+
+--edit in progress
+Verse 1
+  i   二Dm 三Dm (スDm)x2  三Dm || 三Dm7 二Dm7 三Dm, 二Dm7 三Dm7 (maybe same as iii?)
+  (rpt i)
+  ii  二Dm  (スDm)x2  (三Dm)x2 || 三Dm7 スDm7 三Dm,  スDm  三Dm
+  iii 三Dm  (二Dm)x2 三Dm スDm || 三Dm7 二Dm7 三Dm7, 二Dm7 三Dm7
+
+Verse 2
+  (then i x2, ii)
+  iv  三Dm (二Dm)x2 三Dm スDm || 三Dm7 二Dm7 三Dm, 二Dm 三Dm 
+
+Chorus
+  v   三Dm (スDm)x2 (三Dm)x2 || 三Dm7 二Dm7 三Dm, 
+  vi  三Dm (スDm)x2 (三Dm)x2 || 三Dm7 スDm7 三Dm,
+  (probably rpt vi for line 3)
+  (probably rpt iv for line 4)
+
+(both above first half may be same as ii first half?)
+--
 
 LYRICS
 (Verse)
@@ -61,7 +63,7 @@ And in our wake the Caribbean Sea ran red with blood
 
 The admiralty in London sent a fleet to hunt us down
 A traitor in Port Royal told them where we could be found
-They surrounded us in Nassau, the captain shouted "Let 'em come!" --nassauiii
+They surrounded us in Nassau, the captain shouted "Let 'em come!"
 "The fight will be over soon enough, time flies when you're having rum."
 
 (Chorus)

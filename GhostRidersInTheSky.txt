@@ -1,7 +1,7 @@
 **Ghost Riders in the Sky**
 Verse
-  i   一-2Em 一Em 二Em x2 一Em x2 一0Em x4
-  ii  一-2Em 一Em 二Em x2 三Em x4
+  i   一-2Em 一Em 二Em x2 一Em x2 一0Em x4 (rpt for second line)
+  ii  一-2Em 一Em 二Em x2 三Em x2 ス0Em x4
   iii 一h2C  二C  三C  x4 三1-0 二2-0 一2-0
 
 Variants
