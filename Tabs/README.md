@@ -16,8 +16,9 @@ For guitar and banjo, these correspond to the lowest pitch to highest pitch stri
   
 **To strum a chord**, either the chord is named (e.g. 二G means fret G, pluck 二, strum G), or S is used to play a chord already given or strum open all frets. U is an upstrum.  
   
-**Roman numerals** mark arbitrary parts, I usually correspond them to lines of a song. E.g.  
+**Lines and motifs** mark arbitrary parts, I usually correspond them to lines of a song. E.g.  
     i 一G 二G  
+a-z1-9 is also used to mark sub-sections of lines, aka motifs
   
 **Round brackets and repeats**  
 Round brackets separate elements for repeats, specified with ()x2  
@@ -35,3 +36,5 @@ h, /, \, p may all be used to indicate these as on guitar tab. If you wish to in
 U may be placed before a string number to indicate striking that string and the strings physically above it with an upstroke  
   
 **Repeating ditty** % sign, indicates bum-ditty-ditty; to change chords for the second ditty, simply write a different chord after percent, e.g. D%D7, this may be repeated indefinitely
+
+**Comma, Bars** indicates a break in a line, not necessarily rhythmic, usually an instrumental phrase played at the end of a line and before the next. || also serve this purpose, usually for neater organising of parts.

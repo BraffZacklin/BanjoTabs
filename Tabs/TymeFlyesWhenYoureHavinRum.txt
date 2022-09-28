@@ -1,30 +1,38 @@
 Single C Tuning (Open G 三C)
+Dm  二2三2ス3
+Dm7 二2三0ス3
 
-BRIDGE
-  Dm C
-  Dm D7
-  Dm C
-  Dm (vamp), (二0S 一3S 一S, 一3p0S 一S) DEFINITELY INCORRECT needs matching to part iv
+Motifs
+  a 三Dm7 二Dm7 三Dm7, 二Dm7 三Dm7
+  b 三Dm7 二Dm7 三Dm,  二Dm  三Dm 
+  c 三Dm7 スDm7 三Dm,  スDm  三Dm
 
---edit in progress
+  1 二Dm  (スDm)x2  (三Dm)x2
+  2 三Dm  (二Dm)x2 三Dm スDm
+
 Verse 1
-  i   二Dm 三Dm (スDm)x2  三Dm || 三Dm7 二Dm7 三Dm, 二Dm7 三Dm7 (maybe same as iii?)
-  (rpt i)
-  ii  二Dm  (スDm)x2  (三Dm)x2 || 三Dm7 スDm7 三Dm,  スDm  三Dm
-  iii 三Dm  (二Dm)x2 三Dm スDm || 三Dm7 二Dm7 三Dm7, 二Dm7 三Dm7
+  i   二Dm 三Dm (スDm)x2  三Dm || (a)  (rpt)
+  ii  (1) || (c)
+  iii (2) || (a)
 
 Verse 2
-  (then i x2, ii)
-  iv  三Dm (二Dm)x2 三Dm スDm || 三Dm7 二Dm7 三Dm, 二Dm 三Dm 
+  i  二Dm 三Dm (スDm)x2  三Dm || (a)   (rpt)
+  ii  (1) || (c)
+  iv  (2) || (b)
 
 Chorus
-  v   三Dm (スDm)x2 (三Dm)x2 || 三Dm7 二Dm7 三Dm, 
-  vi  三Dm (スDm)x2 (三Dm)x2 || 三Dm7 スDm7 三Dm,
-  (probably rpt vi for line 3)
-  (probably rpt iv for line 4)
+  iv  (Dm)二(三Dm)x2 (スDm) || (b) 
+  ii  (1) || (c)  (rpt)
+  iv  (2) || (b)
 
-(both above first half may be same as ii first half?)
---
+Bridge (half line each)
+  v   Dm    三Dm  スDm 三Dm7      "listen to this tale"
+  vi  Dm7   三Dm7 二Dm 三Dm       "I'm sure you have surmised" 
+  vii (Dm)U (Dm)S 三2p0Dm7 二Dm7  "That I - slipped -- the hangman's cable"
+  iiv 二0h2Dm 三Dm 三Dm7          "And escaped them with my life"
+  iv  二0h2Dm スDm 三Dm7          "But how I got away?"
+  x   二0h2Dm 三Dm スDm 三Dm       "Well that's another story son"
+  xi  (三Dm 二Dm)x2 三Dm 三Dm7 二Dm7 三Dm   (whole line)
 
 LYRICS
 (Verse)
