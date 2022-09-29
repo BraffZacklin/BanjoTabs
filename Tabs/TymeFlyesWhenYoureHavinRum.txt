@@ -11,17 +11,17 @@ Motifs
   2 三Dm  (二Dm)x2 三Dm スDm
 
 Verse 1
-  i   二Dm 三Dm (スDm)x2  三Dm || (a)  (rpt)
+  i   (1) || (a)  (rpt)
   ii  (1) || (c)
   iii (2) || (a)
 
 Verse 2
-  i  二Dm 三Dm (スDm)x2  三Dm || (a)   (rpt)
+  i   (1) || (a)   (rpt)
   ii  (1) || (c)
   iv  (2) || (b)
 
 Chorus
-  iv  (Dm)二(三Dm)x2 (スDm) || (b) 
+  iv  (1) || (b) 
   ii  (1) || (c)  (rpt)
   iv  (2) || (b)
 
