@@ -11,28 +11,24 @@ Motifs
   2 三Dm  (二Dm)x2 三Dm スDm
 
 Verse 1
-  i   (1) || (a)  (rpt)
-  ii  (1) || (c)
-  iii (2) || (a)
+  (1) || (a)  (x2)
+  (1) || (c)
+  (2) || (a)
 
 Verse 2
-  i   (1) || (a)   (rpt)
-  ii  (1) || (c)
-  iv  (2) || (b)
+  (1) || (a) (x2)
+  (1) || (c)
+  (2) || (b)
 
 Chorus
-  iv  (1) || (b) 
-  ii  (1) || (c)  (rpt)
-  iv  (2) || (b)
+  (1) || (b) 
+  (1) || (c)  (x2)
+  (2) || (b)
 
 Bridge (half line each)
-  v   Dm    三Dm  スDm 三Dm7      "listen to this tale"
-  vi  Dm7   三Dm7 二Dm 三Dm       "I'm sure you have surmised" 
-  vii (Dm)U (Dm)S 三2p0Dm7 二Dm7  "That I - slipped -- the hangman's cable"
-  iiv 二0h2Dm 三Dm 三Dm7          "And escaped them with my life"
-  iv  二0h2Dm スDm 三Dm7          "But how I got away?"
-  x   二0h2Dm 三Dm スDm 三Dm       "Well that's another story son"
-  xi  (三Dm 二Dm)x2 三Dm 三Dm7 二Dm7 三Dm   (whole line)
+  i   三2 Dm  三0 Dm7  二2 Dm7  三2 Dm  (x2)
+  ii  ス3 Dm  三2 Dm   三0 Dm7  ス3 Dm
+  iii (三Dm 二Dm)x2 三Dm 三Dm7 二Dm7 三Dm   (whole line)
 
 LYRICS
 (Verse)
