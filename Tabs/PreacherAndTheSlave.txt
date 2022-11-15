@@ -1,51 +1,10 @@
-Wyrmish
+**Preacher and the Slave**
 i   二0h2G  二2/4G x2 二2G x2 二G  x3
 ii  二0h2G  二2/4G x2 三D7 x2 二D7 x3
 iii 二2p0G  三1h3G x2 三1G x2 三G  x3
-iv  二0h2G  三G    x2 二2G x2 二G  x3
+iv  二0h2G  三G    x2 二2G x2 二G  x3 (#maybe wrong?)
 
 v   二0h2G  四G   x3 四三二2G x3
 vi  二0h2D7 三0D7 x2 三3D7 x2 三D7 x2 (二0h2-0G)
-v
+    rpt v
 vii 二0h2G  三G   x2 二2G x2 二G x2
-* idk, both vii and vi sound good in the same spot
-
-very final v() replaced with 二0h2三二G
-
-
-
-(This is different to the Wyrmish)
-**Preacher and the Slave**
-**Verse**
-Long haired preachers come out every night
-Try to tell you what's wrong and what's right
-            2    2    3            2    2    3
-D----0d-----0d---0d---0d----0d-----0d---0d---0d-
-B----0------0----0----0-----0------0--1-1----1--
-G--0-0--2/4-4--2-2--0-0---0-0--2/4-4----2--2-2--
-D----0------0----0----0-----0------0----0----0--
-
-But when asked about something to eat
-They will tell you in voices so sweet
-          2    2    3          2    2    3
-D----2d-2-2d-0-0d---2d------0d---0d-2-2d-0-0d--
-B--1-1----1----1--1-1-------1--1-1----1----1---
-G----0----0----0----0---0h2-2----2----2----2---
-D----2----2----2----2-------0----0----0----0---
-
-**Chorus**
-You will eat, bye and bye
-In that glorious land in the sky (way up high!)
-            3        3           2    2    
-D------0d-0-0d-0-----0------0d---0d-2-2d-0-0d------0d---0d--
-B------0----0----0---0------1--1-1----1----1-------0----0---
-G--0h2-2----2------2-2--0h2-2----2----2----2---0h2-2--0-0---
-D------0----0--------0------0----0----0----0-------0----0---
-
-Work and pray, live on hay
-And you'll get pie in the sky when you die (that's a lie!)
-          3        3            2    2    
-D----2d-2-2d-2-0---0d------0d---0d-2-2d-0-0d------0d---0d--
-B--1-1----1------1-1-------1--1-1----1----1-------0----0---
-G----0----0--------0---0h2-2----2----2----2---0h2-2--0-0---
-D----2----2--------2-------0----0----0----0-------0----0---
