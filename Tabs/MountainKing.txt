@@ -2,11 +2,25 @@
 Open Esus4
 Cm一二2三3ス2
 Fm一二三7ス8
+A2三10ス12
+Em7一8二7三5
+Am一二3三2ス
 
-
-   i U二h2Sd U二e/5Sd 三Cm二 三Cmd
-  ii 三Bm二 三Bmd 三A#m二 三A#md
+Verse 1
+   i 二h2Sd 二3/5Sd 三Cm二 三Cmd
+  ii 三Bm二  三Bmd 三A#m二 三A#md
      rpt i
  iii スCm一 二Cm一 スCmd 
 
-  
+Verse 2
+  iv 二7h9Sd 三6h7Sd スFmd スFm
+   v スEmd スEm スEbmd スEm
+     rpt iv, v
+
+Verse 3
+  vi 三7h9Sd 三10/12Sd スA2d スA2 
+ vii スAb2d スAb2 スG2d スG2
+     rpt vi
+ iix 
+
+Needs fixin'
