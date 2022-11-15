@@ -1,14 +1,9 @@
 **Ghost Riders in the Sky**
 Verse
-  i   一-2Em 一Em 二Em x2 一Em x2 一0Em x4 (rpt for second line)
-  ii  一-2Em 一Em 二Em x2 三Em x2 ス0Em x4
-  iii 一h2C  二C  三C  x4 三1-0 二2-0 一2-0
+  i   一G 一Em x2 二Em x2 一Em x2 一0Em x4 (rpt for second line)
+  ii  一G 一Em x2 二Em x2 三Em x2 ス0Em x4
+  iii スhEm スEm  ス5G x4 ス5-2p0G 三G スG
 
-Variants
-  cryiii  一h2C 二C 三C x4 三[h1]-0 二2-0 一2-0
-  longii  [一0Em] 一Em x2 二Em x2 三Em x4
-  longiii 一-2C 一C 三C x2 二Am x2 二C x2 一Em x4
-  longi   [一0Em] 一Em x2 二Em x2 一Em x2 一0Em x4
 
 Chorus
   iv 二-2 スAm x2 三Am
@@ -24,7 +19,7 @@ Lyrics
   Their brands were still on fire and their hooves were made of steel
   Their horns were black and shiny and their hot breath he could feel
   A bolt of fear went through him as they thundered through the sky
-  He saw the riders coming hard, and he heard their mournful cry ------cryiii (hammer on 'and')
+  He saw the riders coming hard, and he heard their mournful cry
 
   yippie-kai-ai-oh
   yippie-kai-ai-ay
@@ -32,11 +27,11 @@ Lyrics
 
   Their faces gaunt, their eyes were blurred, their shirts all soaked with sweat
   He's riding hard to catch that herd, but he ain't caught 'em yet
-  'Cause they've got to ride forever on that range up in the sky --longii (一0Em start not 一-2Em)
-  On horses snorting fire, as they ride on hear their cry ---------longiii (drawn out descent)
+  'Cause they've got to ride forever on that range up in the sky
+  On horses snorting fire, as they ride on hear their cry
 
-  As the riders loped on by him, he heard one call his name -------longi  (一0Em start not 一-2Em)
-  If you want to save your soul from hell a-riding on our range ---longi
+  As the riders loped on by him, he heard one call his name
+  If you want to save your soul from hell a-riding on our range
   Then cowboy change your ways today or with us you will ride
   Trying to catch the devil's herd, across these endless skies
 
