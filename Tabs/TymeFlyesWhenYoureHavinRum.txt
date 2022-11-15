@@ -3,14 +3,14 @@ Dm  二2三2ス3
 Dm7 二2三0ス3
 
 Motifs
-  b 三Dm7 二Dm7 三Dm,  二Dm  三Dm 
-  c 三Dm7 スDm7 三Dm,  スDm  三Dm
+  a 三Dm7 二Dm7 三Dm,  二Dm  三Dm 
+  b 三Dm7 スDm7 三Dm,  スDm  三Dm
 
   1 二Dm  (スDm)x2  (三Dm)x2
   2 三Dm  (二Dm)x2 三Dm スDm
 
-  (1) || (b)  (verse: x2)
-  (1) || (c)  (chorus: x2)
+  (1) || (a)  (verse: x2)
+  (1) || (b)  (chorus: x2)
   (2) || (b)
 
 Bridge (half line each)
