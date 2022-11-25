@@ -1,0 +1,15 @@
+**Casey Jones**
+Capo 2 (Open A)
+G standard tuning
+
+Verse
+    i (二G 一G) x3 (二G スG) x2
+        rpt above
+   ii 二D7 (三D7) x2 (スD7) x2 三D7  二D7 二G
+  iii 二G  (二D7) x2 (三D7) x2 三0D7 二2G 二G
+
+Chorus
+   iv (二G 一G) x2 (二G  スG) x2
+    v (二G 一G) x2 (二G 三1G) x2
+         rpt iv
+   vi 二D7 (三D7) x3 三0D7 二2G 二G
