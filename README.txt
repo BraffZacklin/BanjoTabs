@@ -1,21 +1,21 @@
 **Natural Major Keys**
-C    Dm     Em      F   G     Am     Bdim
-D    Em     F#m    G   A     Bm     C#dim
-E    F#m   G#m   A    B     C#m   D#m
-F    Gm     Am     Bb  C     Dm     Edim
-G    Am     Bm     C    D     Em     F#dim
-A    Bm     C#m   D    E     F#m   G#m
-B    C#m   D#m   E    F#   G#m   A#dim
+C    Dm     Em    F    G     Am     Bdim
+D    Em     F#m   G    A     Bm     C#dim
+E    F#m    G#m   A    B     C#m    D#m
+F    Gm     Am    Bb   C     Dm     Edim
+G    Am     Bm    C    D     Em     F#dim
+A    Bm     C#m   D    E     F#m    G#m
+B    C#m    D#m   E    F#    G#m    A#dim
 
 **Modes**
-Ionian           - Major scale
-Dorian          - Major w Flat 7, 3
+Ionian        - Major scale
+Dorian        - Major w Flat 7, 3 
 Phrygian      - Minor w Flat 2
-(Dom Phrygian - Major w Flat 2, 6 7)
-Lydian          - Major w Sharp 4
-Mixolydian  - Major w Flat 7
-Aolian           - Major w Flat 3, 6, 7
-Locrian        - Minor w Flat 2 and 5
+Dom Phrygian  - Phryg w sharp 3
+Lydian        - Major w Sharp 4
+Mixolydian    - Major w Flat 7
+Aolian        - Major w Flat 3, 6, 7
+Locrian       - Minor w Flat 2 and 5
 
 **Banjo Fretboard Patterns**
 Root 1st String
