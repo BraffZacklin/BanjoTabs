@@ -26,10 +26,10 @@ g---------------------
 
 **Clawhammer**
 Verse
-   i 三1h3G% 三3p0G% 三1-3-1-0G%, 一G%
-  ii 二2p0G 二2 三G 一4-2-0G%, 二G%
- iii 二G% 二h2% 三1-3G% 二G5%
-  iv 二h2G 三hD7 一4 二-2-0G%, 一G%
+   i 三1h3G% 三3pG% 三1-3-1-0G%, 一G%
+  ii 二2pG 二2G   二一4-2-0G%, 二G%
+ iii 二2h4G% 二2pG% 三1h3G% 二G5%
+  iv 二h2G 三hD7 一4二-2-0G%, 一G%
 
 **Lil Fingerstyle Bridge**
 D-------0-----0-----0------0----
@@ -56,3 +56,50 @@ B-----0-----0-----------1-0------
 G--0h2------------2---------2-0--
 D--------------------------------
 g---------0-----0-----0----------
+
+**Lyrics**
+In a neat little town they call Belfast
+Apprentice to trade I was bound
+And many's an hour's sweet happiness
+Have I spent in this neat little town
+
+But a sad misfortune came over me
+Which caused me to stray from the land
+Far away from my friends and relations
+Betrayed by the black velvet band
+
+**Chorus**
+Her eyes they shone just like diamonds
+I thought she was queen of the land
+And her hair it hung over her shoulders
+Tied up with a black velvet band
+
+I took a stroll down Broadway
+I was meaning not long for to stay
+When who should I meet but this pretty fair maid
+Who came traipsing 'long the highway
+
+She was both fair and handsome
+Her neck it was just like a swans'
+And her hair it hung over her shoulder
+Tied up with a black velvet band
+
+I took a stroll with this fair maid
+And the gentleman passing us by
+Well I knew she meant the doing of him
+By the look in her roguish black eye
+
+A gold watch she took from his pocket
+And placed it right into my hand
+And the very first thing I said was
+Bad 'cess to the black velvet band
+
+Before the judge and the jury
+Next morning I had to appear
+And the judge he said to me 'Young man
+Your case it is proven clear'
+
+We'll give you seven years penal servitude
+To be spent far away from the land
+Far away from your friends and companions
+Betrayed by the black velvet band.
